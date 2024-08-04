@@ -3,10 +3,10 @@ My expertise lies in creating seamless user experiences and optimizing performan
 
 🔧 Skills:
 
-React Native
-TypeScript & JavaScript
-Redux & Context API
-RESTful APIs & GraphQL
-Mobile UI/UX Design
-Testing (Jest, Detox)
+React Native,
+TypeScript & JavaScript,
+Redux & Context API,
+RESTful APIs & GraphQL,
+Mobile UI/UX Design,
+Testing (Jest, Detox),
 CI/CD & DevOps
