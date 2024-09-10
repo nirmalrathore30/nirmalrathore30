@@ -1,12 +1,7 @@
-👋 Hi, I'm Nirmal Rathore, a passionate React Native developer with over 5 years of experience in building high-quality, scalable mobile applications. 
-My expertise lies in creating seamless user experiences and optimizing performance for both iOS and Android platforms.
+I am a seasoned React Native Developer with over five years of hands-on experience in crafting robust and innovative mobile applications. My journey began as an intern at ITInformatix Pvt Ltd, where I quickly advanced to a Senior Developer role, leading projects from conception through to deployment. Currently, I am contributing my expertise at Krish Technolabs Pvt Ltd, where I have played a pivotal role in developing and maintaining high-impact mobile applications.
 
-🔧 Skills:
+My technical skills span across React Native, JavaScript, TypeScript, and various associated technologies including Node.js and Firebase. I have a proven track record of delivering scalable, high-performance applications, ensuring a seamless user experience across both iOS and Android platforms. My ability to integrate third-party APIs, optimize performance, and collaborate effectively with cross-functional teams has been key to my success.
 
-React Native,
-TypeScript & JavaScript,
-Redux & Context API,
-RESTful APIs & GraphQL,
-Mobile UI/UX Design,
-Testing (Jest, Detox),
-CI/CD & DevOps
+I am committed to continuous learning and staying abreast of industry trends, which is complemented by my academic background in Computer Applications from Dr. APJ Abdul Kalam University and Devi Ahilya Vishwavidyalaya. My portfolio showcases a range of projects, including successful apps like NAZIH and Minamin, which have significantly enhanced user engagement and satisfaction.
+
+Whether working independently or as part of a team, I am driven by a passion for creating intuitive, high-quality applications that meet and exceed user expectations.
